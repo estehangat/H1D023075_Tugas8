@@ -7,8 +7,6 @@ Shift     : A
 Shift KRS : F
 ```
 
-Aplikasi Toko ini dibuat menggunakan **Flutter** sebagai bagian dari proyek kuliah untuk mempelajari:
-
 ## Screenshot Aplikasi
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/7ac6dfd6-6c68-4b6f-8017-db4515d1f880" />
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/0abfcb75-e379-4893-b971-32f80e53784b" />
